@@ -1,17 +1,16 @@
 nav {
-    background-color: steelblue;
+    background-color: darkblue;
     padding: 10px;
 }
 
 nav a {
     color: white;
-    padding: 10px;
     display: block;
-    text-decoration: none;
+    padding: 20px;   
 }
 
 h1 {
-    color: #333;
+    color: darkblue;
 }
 
 main {
@@ -20,15 +19,15 @@ main {
 }
 
 main img {
-    width: 200px;
+    width: 150px;
     height: auto;
-    border: 2px solid #333;
-    padding: 5px;
-    box-shadow: 0 0 10px rgba(0,0,0,0.5);
+    border: 1px solid black;
+    padding: 2px;
+    box-shadow: 0 0 30px gray;
 }
 
 p {
-    padding: 0;
+    padding: 10;
 }
 
 aside {
