@@ -17,8 +17,8 @@
   
   
   /* Typography */
-  --font-heading: "Outfit", "Montserrat", sans-serif;
-  --font-body: "Roboto", sans-serif;
+  --font-heading: "Arial", "Helvetica", sans-serif;
+  --font-body: "Helvetica", sans-serif;
 }
 
 header {
